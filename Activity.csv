@@ -1,0 +1,457 @@
+User,Activity,Start,End,Day
+User_1,Laying Down,10:00,10:22,1
+User_1,Screen Usage,10:37,10:40,1
+User_1,Caffine,10:40,10:45,1
+User_1,Heavy Movement,10:55,11:00,1
+User_1,Laying Down,11:00,11:20,1
+User_1,Eating,12:00,13:00,1
+User_1,Light Movement,13:30,13:35,1
+User_1,Caffine,13:35,13:40,1
+User_1,Sitting,13:40,13:45,1
+User_1,Heavy Movement,13:55,14:30,1
+User_1,Screen Usage,14:25,14:30,1
+User_1,Caffine,14:25,14:30,1
+User_1,Laying Down,14:30,16:40,1
+User_1,Caffine,16:40,16:45,1
+User_1,Laying Down,16:45,18:10,1
+User_1,Caffine,18:10,18:20,1
+User_1,Moderate Movement,18:20,18:30,1
+User_1,Sitting,18:45,18:55,1
+User_1,Screen Usage,19:00,19:45,1
+User_1,Sitting,20:00,20:30,1
+User_1,Heavy Movement,20:30,21:30,1
+User_1,Caffine,21:45,21:50,1
+User_1,Heavy Movement,21:50,22:20,1
+User_1,Caffine,22:20,22:25,1
+User_1,Screen Usage,22:50,22:55,1
+User_1,Caffine,22:55,23:00,1
+User_1,Caffine,23:30,23:35,1
+User_1,Light Movement,23:45,23:50,1
+User_1,Sitting,23:50,23:55,1
+User_1,Smoking,00:25,00:30,2
+User_1,Sleeping,00:30,00:00,2
+User_1,Sitting,09:20,09:35,2
+User_2,Laying Down,10:00,10:20,1
+User_2,Heavy Movement,13:05,13:25,1
+User_2,Heavy Movement,13:38,13:40,1
+User_2,Screen Usage,13:38,13:40,1
+User_2,Laying Down,13:55,14:00,1
+User_2,Sitting,15:00,15:10,1
+User_2,Light Movement,17:28,17:45,1
+User_2,Laying Down,17:55,18:00,1
+User_2,Eating,18:00,18:30,1
+User_2,Sitting,18:30,19:30,1
+User_2,Sitting,20:06,20:17,1
+User_2,Screen Usage,20:30,21:00,1
+User_2,Heavy Movement,20:30,21:00,1
+User_2,Eating,21:00,21:55,1
+User_2,Laying Down,21:56,22:00,1
+User_2,Eating,22:00,23:15,1
+User_2,Laying Down,00:00,00:10,2
+User_2,Smoking,00:45,00:47,2
+User_2,Sleeping,00:47,03:35,2
+User_2,Smoking,03:35,03:45,2
+User_2,Sleeping,03:45,00:00,2
+User_2,Sitting,08:55,09:15,2
+User_2,Alcohol,00:00,00:10,2
+User_2,Alcohol,03:35,03:45,2
+User_3,Eating,09:50,10:15,1
+User_3,Screen Usage,10:00,10:10,1
+User_3,Sitting,10:30,13:30,1
+User_3,Heavy Movement,13:30,13:50,1
+User_3,Screen Usage,14:10,14:15,1
+User_3,Sitting,14:30,16:30,1
+User_3,Light Movement,17:00,17:10,1
+User_3,Laying Down,17:10,18:30,1
+User_3,Sitting,18:30,19:00,1
+User_3,Moderate Movement,19:15,20:10,1
+User_3,Heavy Movement,21:45,22:10,1
+User_3,Smoking,23:15,24:00:00,1
+User_3,Sleeping,00:00,06:00,2
+User_3,Laying Down,06:00,06:15,2
+User_3,Heavy Movement,06:15,06:25,2
+User_3,Sitting,06:30,06:55,2
+User_3,Sitting,06:59,07:05,2
+User_3,Laying Down,07:28,08:35,2
+User_3,Light Movement,08:40,08:50,2
+User_3,Screen Usage,08:50,09:30,2
+User_3,Screen Usage,09:30,09:35,2
+User_4,Laying Down,12:00,12:50,1
+User_4,Eating,12:00,12:50,1
+User_4,Laying Down,15:50,17:20,1
+User_4,Eating,15:50,17:20,1
+User_4,Laying Down,18:50,19:00,1
+User_4,Eating,19:25,21:00,1
+User_4,Screen Usage,22:00,24:00:00,1
+User_4,Laying Down,00:30,00:35,2
+User_4,Smoking,00:35,00:36,2
+User_4,Sleeping,00:36,07:10,2
+User_4,Laying Down,07:10,07:15,2
+User_4,Laying Down,08:40,08:55,2
+User_4,Screen Usage,09:45,09:55,1
+User_4,Heavy Movement,09:45,09:55,1
+User_4,Heavy Movement,13:30,14:10,1
+User_4,Heavy Movement,19:10,19:25,1
+User_4,Heavy Movement,21:00,21:45,1
+User_4,Alcohol,00:30,00:35,2
+User_4,Alcohol,07:10,07:15,2
+User_5,Sitting,09:50,10:00,1
+User_5,Sitting,10:20,11:00,1
+User_5,Laying Down,11:00,13:00,1
+User_5,Eating,11:00,12:30,1
+User_5,Sleeping,14:15,15:00,1
+User_5,Laying Down,17:45,20:00,1
+User_5,Laying Down,22:00,22:45,1
+User_5,Eating,22:00,22:45,1
+User_5,Heavy Movement,10:00,10:10,1
+User_5,Heavy Movement,13:15,13:45,1
+User_5,Heavy Movement,17:30,17:40,1
+User_5,Heavy Movement,20:30,21:30,1
+User_5,Heavy Movement,08:00,08:10,2
+User_5,Screen Usage,10:00,10:10,1
+User_5,Screen Usage,08:00,08:10,2
+User_5,Sleeping,23:56,24:00:00,1
+User_5,Sleeping,00:01,06:42,2
+User_6,Sitting,10:39,10:46,1
+User_6,Laying Down,10:46,11:04,1
+User_6,Eating,11:10,12:48,1
+User_6,Moderate Movement,12:48,13:03,1
+User_6,Sitting,13:03,13:35,1
+User_6,Eating,14:29,14:57,1
+User_6,Screen Usage,14:57,16:00,1
+User_6,Laying Down,16:34,16:59,1
+User_6,Eating,16:59,17:40,1
+User_6,Laying Down,17:46,19:03,1
+User_6,Sitting,19:03,19:24,1
+User_6,Heavy Movement,19:39,20:51,1
+User_6,Laying Down,22:33,23:45,1
+User_6,Laying Down,23:48,23:55,1
+User_6,Screen Usage,23:55,24:00:00,1
+User_6,Screen Usage,00:01,01:47,2
+User_6,Sleeping,02:10,09:10,2
+User_6,Sitting,09:10,09:46,2
+User_6,Laying Down,09:46,10:00,2
+User_6,Heavy Movement,13:43,14:06,1
+User_6,Heavy Movement,18:29,18:29,1
+User_6,Screen Usage,21:13,21:15,1
+User_7,Sitting,10:00,10:30,1
+User_7,Laying Down,10:30,13:00,1
+User_7,Heavy Movement,13:00,14:30,1
+User_7,Sitting,14:30,18:30,1
+User_7,Sitting,18:30,20:00,1
+User_7,Heavy Movement,20:00,21:30,1
+User_7,Screen Usage,21:30,23:30,1
+User_7,Laying Down,23:30,23:35,1
+User_7,Sleeping,23:35,09:00,1
+User_7,Sitting,09:00,09:05,2
+User_7,Alcohol,23:30,23:35,1
+User_7,Alcohol,09:00,09:05,2
+User_8,Laying Down,12:10,10:35,1
+User_8,Sitting,10:50,11:00,1
+User_8,Laying Down,11:00,12:05,1
+User_8,Sitting,12:05,12:40,1
+User_8,Laying Down,12:45,13:35,1
+User_8,Sleeping,12:45,13:35,1
+User_8,Sitting,14:00,19:10,1
+User_8,Moderate Movement,19:30,20:45,1
+User_8,Sitting,20:55,21:10,1
+User_8,Laying Down,21:20,21:30,1
+User_8,Screen Usage,22:30,23:25,1
+User_8,Sleeping,00:00,02:15,2
+User_8,Laying Down,02:15,02:25,2
+User_8,Sleeping,02:25,07:10,2
+User_8,Laying Down,07:25,07:35,2
+User_8,Laying Down,07:55,07:35,2
+User_8,Heavy Movement,10:35,10:45,1
+User_8,Screen Usage,10:35,10:45,1
+User_8,Heavy Movement,13:45,14:00,1
+User_8,Screen Usage,13:45,14:00,1
+User_8,Heavy Movement,21:30,22:10,1
+User_8,Heavy Movement,07:35,07:50,2
+User_8,Screen Usage,07:35,07:50,2
+User_8,Alcohol,02:15,02:20,2
+User_8,Alcohol,07:25,07:30,2
+User_9,Eating,11:00,13:30,1
+User_9,Heavy Movement,13:30,14:30,1
+User_9,Sleeping,14:30,15:30,1
+User_9,Eating,15:30,19:00,1
+User_9,Moderate Movement,19:00,19:30,1
+User_9,Sitting,19:30,20:00,1
+User_9,Moderate Movement,20:00,20:30,1
+User_9,Sitting,23:30,21:00,1
+User_9,Sitting,21:00,21:10,1
+User_9,Heavy Movement,21:10,22:00,1
+User_9,Screen Usage,22:00,23:30,1
+User_9,Laying Down,23:30,23:40,1
+User_9,Sitting,23:40,23:50,1
+User_9,Sleeping,23:50,05:15,2
+User_9,Smoking,05:15,05:25,2
+User_9,Sleeping,05:25,09:00,2
+User_9,Heavy Movement,11:10,11:20,1
+User_9,Alcohol,23:30,23:40,1
+User_9,Alcohol,05:15,05:25,2
+User_10,Light Movement,10:00,10:30,1
+User_10,Laying Down,10:30,11:30,1
+User_10,Light Movement,11:30,11:40,1
+User_10,Eating,11:40,12:45,1
+User_10,Sleeping,12:45,13:15,1
+User_10,Heavy Movement,13:20,14:00,1
+User_10,Eating,14:10,14:40,1
+User_10,Eating,15:00,17:00,1
+User_10,Sitting,17:00,22:00,1
+User_10,Laying Down,22:10,22:30,1
+User_10,Laying Down,22:50,23:10,1
+User_10,Caffine,23:07,23:12,1
+User_10,Caffine,23:30,23:35,1
+User_10,Caffine,23:55,00:00,1
+User_10,Caffine,00:28,00:33,2
+User_10,Laying Down,00:40,01:00,2
+User_10,Eating,01:30,02:30,2
+User_10,Sleeping,02:30,06:50,2
+User_10,Screen Usage,09:50,09:55,1
+User_10,Heavy Movement,12:00,12:10,1
+User_10,Screen Usage,14:45,14:55,1
+User_10,Heavy Movement,20:00,20:20,1
+User_10,Heavy Movement,21:30,21:40,1
+User_10,Smoking,23:17,23:30,1
+User_10,Smoking,00:05,00:15,2
+User_10,Heavy Movement,02:00,02:10,2
+User_11,Sitting,10:20,10:25,1
+User_11,Laying Down,10:25,10:30,1
+User_11,Heavy Movement,10:30,10:35,1
+User_11,Laying Down,10:45,11:00,1
+User_11,Sitting,11:00,13:25,1
+User_11,Laying Down,13:35,14:05,1
+User_11,Heavy Movement,14:10,14:49,1
+User_11,Eating,14:49,15:30,1
+User_11,Sleeping,15:30,17:10,1
+User_11,Laying Down,17:10,18:12,1
+User_11,Laying Down,18:15,18:23,1
+User_11,Sitting,18:38,19:00,1
+User_11,Sitting,19:15,21:48,1
+User_11,Sitting,21:49,21:55,1
+User_11,Sitting,21:55,24:00:00,1
+User_11,Sitting,00:01,00:26,2
+User_11,Heavy Movement,00:26,00:48,2
+User_11,Sitting,00:48,01:57,2
+User_11,Laying Down,01:57,02:13,2
+User_11,Laying Down,02:13,02:20,2
+User_11,Laying Down,02:31,03:04,2
+User_11,Laying Down,02:50,02:53,2
+User_11,Eating,03:08,03:16,2
+User_11,Sleeping,03:16,08:18,2
+User_11,Laying Down,08:19,08:35,2
+User_11,Laying Down,09:03,09:23,2
+User_11,Screen Usage,10:30,10:35,1
+User_11,Screen Usage,14:56,14:57,1
+User_11,Screen Usage,17:26,17:27,1
+User_11,Heavy Movement,17:10,17:15,1
+User_11,Screen Usage,19:33,19:40,1
+User_11,Heavy Movement,20:52,20:58,1
+User_11,Smoking,00:26,00:48,2
+User_11,Alcohol,02:50,02:53,2
+User_11,Alcohol,08:19,08:35,2
+User_12,Sitting,10:00,10:20,1
+User_12,Eating,11:05,11:30,1
+User_12,Screen Usage,11:30,12:10,1
+User_12,Sitting,12:10,12:35,1
+User_12,Screen Usage,12:35,13:05,1
+User_12,Heavy Movement,13:05,13:30,1
+User_12,Laying Down,14:05,14:35,1
+User_12,Sitting,14:35,14:50,1
+User_12,Laying Down,14:50,17:15,1
+User_12,Sitting,17:15,17:25,1
+User_12,Laying Down,17:45,19:45,1
+User_12,Heavy Movement,19:45,20:15,1
+User_12,Eating,20:15,23:00,1
+User_12,Smoking,23:00,23:55,1
+User_12,Sleeping,23:55,06:55,1
+User_12,Smoking,06:55,07:05,2
+User_12,Moderate Movement,07:25,07:45,2
+User_12,Moderate Movement,07:50,08:10,2
+User_12,Heavy Movement,08:15,08:20,2
+User_12,Sitting,08:25,08:35,2
+User_12,Screen Usage,10:20,10:35,1
+User_12,Heavy Movement,10:20,10:35,1
+User_12,Heavy Movement,11:00,11:05,1
+User_12,Screen Usage,13:35,13:55,1
+User_12,Heavy Movement,17:30,17:45,1
+User_12,Alcohol,22:55,23:00,1
+User_12,Alcohol,07:20,07:25,2
+User_12,Alcohol,08:10,08:15,2
+User_13,Sitting,10:00,13:00,1
+User_13,Heavy Movement,13:00,14:30,1
+User_13,Sitting,14:30,18:30,1
+User_13,Laying Down,19:00,20:00,1
+User_13,Heavy Movement,20:00,21:00,1
+User_13,Laying Down,21:30,23:30,1
+User_13,Sleeping,23:30,07:40,1
+User_14,Sitting,10:16,10:19,1
+User_14,Sitting,10:47,10:58,1
+User_14,Eating,10:16,10:58,1
+User_14,Laying Down,11:10,12:55,1
+User_14,Eating,11:15,12:50,1
+User_14,Sitting,13:00,13:35,1
+User_14,Eating,13:55,15:00,1
+User_14,Smoking,14:47,15:33,1
+User_14,Eating,15:45,19:30,1
+User_14,Sitting,18:16,18:18,1
+User_14,Sitting,19:31,19:59,1
+User_14,Eating,20:00,21:30,1
+User_14,Screen Usage,21:40,23:38,1
+User_14,Sleeping,00:00,07:00,2
+User_14,Eating,07:20,07:49,2
+User_14,Sitting,08:06,08:14,2
+User_14,Sitting,08:37,08:42,2
+User_14,Eating,08:07,08:50,2
+User_14,Heavy Movement,13:37,14:02,1
+User_14,Heavy Movement,17:47,17:54,1
+User_14,Heavy Movement,21:40,21:58,1
+User_14,Heavy Movement,07:33,07:41,2
+User_14,Alcohol,23:40,23:45,1
+User_15,Sitting,10:00,13:00,1
+User_15,Sitting,15:00,18:00,1
+User_15,Moderate Movement,19:00,21:00,1
+User_15,Sleeping,22:30,07:30,1
+User_15,Heavy Movement,07:30,07:40,1
+User_15,Heavy Movement,13:30,14:00,1
+User_15,Screen Usage,13:30,14:00,1
+User_15,Heavy Movement,22:00,22:30,1
+User_15,Alcohol,22:00,22:10,1
+User_15,Alcohol,07:35,07:45,2
+User_16,Sitting,10:05,10:20,1
+User_16,Heavy Movement,10:20,10:30,1
+User_16,Laying Down,11:10,13:50,1
+User_16,Sitting,10:50,11:10,1
+User_16,Heavy Movement,13:50,14:10,1
+User_16,Sitting,14:30,15:00,1
+User_16,Smoking,15:00,15:40,1
+User_16,Sitting,16:00,20:00,1
+User_16,Sitting,20:00,20:30,1
+User_16,Heavy Movement,21:00,21:30,1
+User_16,Screen Usage,21:30,23:30,1
+User_16,Sitting,00:20,00:35,2
+User_16,Sleeping,00:40,08:05,2
+User_16,Heavy Movement,08:25,08:30,2
+User_16,Screen Usage,10:20,10:30,1
+User_16,Screen Usage,13:50,14:10,1
+User_16,Heavy Movement,00:00,00:30,2
+User_16,Alcohol,23:30,23:40,1
+User_16,Alcohol,08:15,08:25,2
+User_17,Sitting,10:15,12:40,1
+User_17,Heavy Movement,13:20,14:00,1
+User_17,Sitting,15:00,18:06,1
+User_17,Sitting,18:06,18:25,1
+User_17,Laying Down,18:34,18:35,1
+User_17,Sitting,18:53,19:00,1
+User_17,Moderate Movement,19:30,20:40,1
+User_17,Heavy Movement,21:00,21:25,1
+User_17,Sitting,21:30,21:55,1
+User_17,Heavy Movement,22:25,22:35,1
+User_17,Screen Usage,22:25,24:00:00,1
+User_17,Sleeping,00:18,06:04,2
+User_17,Smoking,06:04,06:53,2
+User_17,Heavy Movement,07:10,07:21,2
+User_17,Sitting,08:00,08:10,2
+User_17,Laying Down,08:15,08:30,2
+User_17,Sitting,08:35,08:55,2
+User_17,Screen Usage,13:20,14:00,1
+User_17,Heavy Movement,16:10,16:15,1
+User_17,Heavy Movement,18:06,18:10,1
+User_17,Heavy Movement,22:25,22:35,1
+User_17,Screen Usage,07:10,07:21,2
+User_17,Alcohol,00:05,00:10,2
+User_17,Alcohol,06:55,07:03,2
+User_18,Laying Down,10:10,10:30,1
+User_18,Eating,10:30,13:15,1
+User_18,Heavy Movement,13:15,13:30,1
+User_18,Eating,13:30,13:50,1
+User_18,Sleeping,13:50,15:15,1
+User_18,Eating,15:15,19:30,1
+User_18,Laying Down,19:30,20:00,1
+User_18,Laying Down,20:00,23:00,1
+User_18,Laying Down,23:00,23:20,1
+User_18,Heavy Movement,23:20,23:30,1
+User_18,Eating,23:30,24:00:00,1
+User_18,Eating,00:01,00:15,2
+User_18,Sleeping,00:30,03:45,2
+User_18,Sleeping,04:00,07:10,2
+User_18,Eating,07:10,07:30,2
+User_18,Heavy Movement,07:45,08:00,2
+User_18,Sitting,08:00,08:30,2
+User_18,Laying Down,08:30,09:00,2
+User_18,Smoking,20:00,21:00,1
+User_18,Screen Usage,07:45,08:00,2
+User_18,Alcohol,00:15,00:30,2
+User_18,Alcohol,03:45,04:00,2
+User_18,Alcohol,07:30,07:45,2
+User_19,Sitting,10:00,13:00,1
+User_19,Heavy Movement,13:00,13:40,1
+User_19,Laying Down,13:40,14:30,1
+User_19,Sitting,14:30,15:00,1
+User_19,Laying Down,15:00,15:10,1
+User_19,Heavy Movement,15:40,15:45,1
+User_19,Eating,15:45,17:20,1
+User_19,Screen Usage,17:25,18:30,1
+User_19,Laying Down,18:30,18:55,1
+User_19,Eating,18:55,19:30,1
+User_19,Sitting,19:30,19:50,1
+User_19,Sitting,19:55,20:10,1
+User_19,Heavy Movement,20:45,21:25,1
+User_19,Laying Down,21:30,21:55,1
+User_19,Smoking,22:00,22:45,1
+User_19,Sleeping,22:45,08:20,1
+User_19,Sitting,08:50,09:10,2
+User_19,Heavy Movement,15:40,15:45,1
+User_19,Heavy Movement,19:35,19:40,1
+User_19,Alcohol,21:55,22:00,1
+User_19,Alcohol,08:35,08:40,2
+User_20,Moderate Movement,10:30,10:45,1
+User_20,Eating,15:00,17:30,1
+User_20,Eating,19:00,20:00,1
+User_20,Screen Usage,21:30,23:30,1
+User_20,Sleeping,00:45,07:40,2
+User_20,Sitting,07:45,08:15,2
+User_20,Heavy Movement,10:00,10:02,1
+User_20,Screen Usage,10:15,10:16,1
+User_20,Heavy Movement,13:30,14:00,1
+User_20,Screen Usage,13:30,14:00,1
+User_20,Heavy Movement,20:30,21:15,1
+User_20,Smoking,20:30,21:15,1
+User_20,Screen Usage,21:43,21:45,1
+User_20,Screen Usage,23:30,23:40,1
+User_20,Screen Usage,08:20,08:25,2
+User_20,Heavy Movement,08:20,08:25,2
+User_20,Alcohol,00:40,00:45,2
+User_20,Alcohol,07:40,07:45,2
+User_21,Heavy Movement,10:20,10:35,1
+User_21,Laying Down,00:35,13:35,1
+User_21,Heavy Movement,13:50,14:10,1
+User_21,Sleeping,14:35,15:05,1
+User_21,Laying Down,15:20,19:00,1
+User_21,Sitting,19:00,19:25,1
+User_21,Laying Down,19:35,21:00,1
+User_21,Heavy Movement,21:00,21:25,1
+User_21,Laying Down,21:25,24:00:00,1
+User_21,Laying Down,00:01,02:00,2
+User_21,Sleeping,02:00,07:25,2
+User_21,Sitting,07:50,08:15,2
+User_21,Sitting,08:25,08:30,2
+User_21,Heavy Movement,08:30,08:40,2
+User_21,Sitting,08:40,09:00,2
+User_21,Screen Usage,10:20,10:35,1
+User_21,Screen Usage,15:15,15:20,1
+User_21,Screen Usage,17:20,17:30,1
+User_21,Heavy Movement,19:30,19:40,1
+User_21,Screen Usage,08:30,08:40,2
+User_22,Sitting,08:50,14:40,1
+User_22,Heavy Movement,15:30,16:00,1
+User_22,Eating,16:00,18:00,1
+User_22,Sitting,18:00,18:20,1
+User_22,Sitting,19:50,20:10,1
+User_22,Heavy Movement,21:00,21:40,1
+User_22,Sitting,22:30,00:10,1
+User_22,Laying Down,00:20,00:40,2
+User_22,Heavy Movement,17:00,17:10,1
+User_22,Smoking,23:20,23:30,1
+User_22,Sleeping,01:06,07:04,2
